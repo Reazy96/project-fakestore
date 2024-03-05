@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+h1 {
+  text-align: center;
+  padding: 50px;
+}
+a {
+  text-decoration: none;
+}

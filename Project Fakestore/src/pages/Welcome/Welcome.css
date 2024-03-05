@@ -1,0 +1,14 @@
+.welcome {
+  background-color: lightblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welcome a {
+  background-color: blue;
+  padding: 12px 10px;
+  color: white;
+  border-radius: 20px;
+}
